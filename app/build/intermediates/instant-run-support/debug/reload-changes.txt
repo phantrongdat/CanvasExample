@@ -1,0 +1,10 @@
+CHANGED,D:\DAT\ANDROID\PROJECT2\CanvasExample\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\dat17\canvasexample\R$styleable$override.class
+CHANGED,D:\DAT\ANDROID\PROJECT2\CanvasExample\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\android\support\v7\appcompat\R$drawable$override.class
+CHANGED,D:\DAT\ANDROID\PROJECT2\CanvasExample\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\dat17\canvasexample\R$style$override.class
+CHANGED,D:\DAT\ANDROID\PROJECT2\CanvasExample\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\dat17\canvasexample\R$integer$override.class
+CHANGED,D:\DAT\ANDROID\PROJECT2\CanvasExample\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\dat17\canvasexample\R$drawable$override.class
+CHANGED,D:\DAT\ANDROID\PROJECT2\CanvasExample\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\dat17\canvasexample\R$mipmap$override.class
+CHANGED,D:\DAT\ANDROID\PROJECT2\CanvasExample\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\dat17\canvasexample\R$layout$override.class
+CHANGED,D:\DAT\ANDROID\PROJECT2\CanvasExample\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\dat17\canvasexample\R$id$override.class
+CHANGED,D:\DAT\ANDROID\PROJECT2\CanvasExample\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\dat17\canvasexample\R$string$override.class
+CHANGED,D:\DAT\ANDROID\PROJECT2\CanvasExample\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class

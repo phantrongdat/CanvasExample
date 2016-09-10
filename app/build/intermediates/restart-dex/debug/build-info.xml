@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a,armeabi"
+    api-level="23"
+    density="xhdpi"
+    format="7"
+    timestamp="370231710877127"
+    token="8835393066281931880"
+    verifier="R_CLASS_CHANGE" >
+
+    <task
+        name="javac"
+        duration="344" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="55" />
+    <task
+        name="verifier"
+        duration="13" />
+
+    <artifact
+        location="D:\DAT\ANDROID\PROJECT2\CanvasExample\app\build\intermediates\res\resources-debug.ap_"
+        type="RESOURCES" />
+    <artifact
+        location="D:\DAT\ANDROID\PROJECT2\CanvasExample\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_2\classes.dex"
+        type="DEX" />
+    <artifact
+        location="D:\DAT\ANDROID\PROJECT2\CanvasExample\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_0\classes.dex"
+        type="DEX" />
+
+    <build timestamp="369804826909112" >
+        <artifact
+            location="D:\DAT\ANDROID\PROJECT2\CanvasExample\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="370231710877127"
+        verifier="R_CLASS_CHANGE" >
+        <artifact
+            location="D:\DAT\ANDROID\PROJECT2\CanvasExample\app\build\intermediates\res\resources-debug.ap_"
+            type="RESOURCES" />
+        <artifact
+            location="D:\DAT\ANDROID\PROJECT2\CanvasExample\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_2\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\DAT\ANDROID\PROJECT2\CanvasExample\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_0\classes.dex"
+            type="DEX" />
+    </build>
+
+</instant-run>
